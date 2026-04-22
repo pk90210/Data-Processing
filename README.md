@@ -46,6 +46,8 @@ If no filename is provided, the script will display an error message:
 ```
 Too few arguments!
 ```
+## Disclaimer
+It cannot handle binary formats like .pdf, .docx, .xlsx, .png, .jpg, or other non-text files—these would cause an error or produce gibberish output.
 
 ## License
 
